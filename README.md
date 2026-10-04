@@ -49,7 +49,7 @@
 
 <img src="https://streak-stats.demolab.com?user=amogh9594&hide_border=true&background=0d0e16&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9ca3af" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh9594&bg_color=0d0e16&color=22d3ee&line=a78bfa&point=f472b6&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh9594&bg_color=0d0e16&color=22d3ee&line=a78bfa&point=f472b6&area=true&hide_border=true" alt="Contribution graph" width="100%"/>-->
 
 </div>
 
