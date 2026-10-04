@@ -1,60 +1,74 @@
-<h2>Hey there! I'm Amogh</h2>
+<div align="center">
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Amogh%20Kawle&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Python%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Web%20Developer&descSize=18&descAlignY=58" alt="Amogh Kawle" width="100%"/>
 
-###  &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Data Analyst, Power BI, and Web Development .\
-✍️ &nbsp;In my free time, I pursue Gaming and Blog Writing as hobbies.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rohitkawle810@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://amogh9594.github.io/amoghkawleportfolio/) for more details about me.\
-📄 &nbsp;Please have a look at my [No Code Portfolio Website (jemi)](https://jemi.so/amogh-kawle).
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=green)
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
-![Mysql](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SqLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=white)\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Blogger](https://img.shields.io/badge/-Blogger-05122A?style=flat&logo=Blogger)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
 <a href="https://github.com/amogh9594">
- <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amogh9594&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amogh9594&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=48&lines=Hi+there%2C+I'm+Amogh+%F0%9F%91%8B;I+build+Python+backends;AWS+%2B+workflow+automation;LLM-powered+apps+that+ship" alt="Typing intro"/>
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/Mumbai-India-0d0e16?style=for-the-badge&labelColor=0d0e16&color=22d3ee" alt="Mumbai"/>
+  <img src="https://img.shields.io/badge/Parekh%20Integrated%20Services-0d0e16?style=for-the-badge&labelColor=0d0e16&color=a78bfa" alt="Company"/>
+  <img src="https://img.shields.io/badge/Open%20to-collabs-0d0e16?style=for-the-badge&labelColor=0d0e16&color=f472b6" alt="Open to collabs"/>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+</div>
 
-<p align="center">
-<a href="https://amogh9594.github.io/amoghkawleportfolio/"><img src="https://img.shields.io/badge/-amoghkawle.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/</a>
-<a href="https://www.linkedin.com/in/amogh-kawle/"><img src="https://img.shields.io/badge/-Amogh%20Thaksen%20Kawle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rohitkawle810@gmail.com"><img src="https://img.shields.io/badge/-rohitkawle810@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+## What I do
 
+- Build Python backends and APIs
+- Automate workflows and run services on AWS
+- Build AI applications with LLM tooling, from local models (Ollama, LM Studio) to cloud APIs (OpenAI, LangChain)
+- Analyse data in Jupyter notebooks
 
+## Tech stack
 
-<!---
-amogh9594/amogh9594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,azure,fastapi,git,github,html,css,js,linux,vscode&perline=11" alt="Tech stack icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-0d0e16?style=flat-square&labelColor=0d0e16&color=22d3ee" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LangChain-0d0e16?style=flat-square&labelColor=0d0e16&color=a78bfa" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenAI-0d0e16?style=flat-square&labelColor=0d0e16&color=f472b6" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Ollama-0d0e16?style=flat-square&labelColor=0d0e16&color=22d3ee" alt="Ollama"/>
+<img src="https://img.shields.io/badge/LM%20Studio-0d0e16?style=flat-square&labelColor=0d0e16&color=a78bfa" alt="LM Studio"/>
+<img src="https://img.shields.io/badge/Jupyter-0d0e16?style=flat-square&labelColor=0d0e16&color=f472b6" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/OCR-0d0e16?style=flat-square&labelColor=0d0e16&color=22d3ee" alt="OCR"/>
+<img src="https://img.shields.io/badge/Workflow%20automation-0d0e16?style=flat-square&labelColor=0d0e16&color=a78bfa" alt="Workflow automation"/>
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amogh9594&show_icons=true&hide_border=true&bg_color=0d0e16&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh9594&layout=compact&hide_border=true&bg_color=0d0e16&title_color=22d3ee&text_color=e5e7eb" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=amogh9594&hide_border=true&background=0d0e16&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9ca3af" alt="Streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh9594&bg_color=0d0e16&color=22d3ee&line=a78bfa&point=f472b6&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+
+</div>
+
+## Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [aws-with-python](https://github.com/amogh9594/aws-with-python) | A hands-on tutorial for working with AWS from Python | Python, AWS |
+| [azure-with-python](https://github.com/amogh9594/azure-with-python) | Azure services driven from Python notebooks | Jupyter, Azure |
+| [docquery](https://github.com/amogh9594/docquery) | Document query engine powered by large language models | Jupyter, LLMs |
+| [weather-api](https://github.com/amogh9594/weather-api) | A small weather API | Python |
+
+## Connect
+
+<div align="center">
+
+<a href="https://amogh9594.github.io/amoghkawleportfolio/"><img src="https://img.shields.io/badge/Portfolio-0d0e16?style=for-the-badge&labelColor=0d0e16&color=22d3ee" alt="Portfolio"/></a>
+<a href="https://github.com/amogh9594?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d0e16?style=for-the-badge&labelColor=0d0e16&color=a78bfa" alt="Repositories"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20&section=footer" alt="" width="100%"/>
+
+</div>
